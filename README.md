@@ -118,7 +118,7 @@ https://github.com/amanhari1808-arch/Pizza-Sales-Analysis-Dashboard
 
 ## Portfolio Website
 
-🌐 Live Portfolio: *(Add GitHub Pages link after deployment)*
+🌐 Live Portfolio: [*(Add GitHub Pages link after deployment)*](https://amanhari1808-arch.github.io/data-analyst-portfolio/)
 
 ---
 
